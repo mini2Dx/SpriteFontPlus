@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <Authors>mini2Dx</Authors>
+    <Product>SpriteFontPlus</Product>
+    <Description>Fork of SpriteFontPluswith fixes for game consoles</Description>    
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mini2Dx/SpriteFontPlus</PackageProjectUrl>
+    <RootNamespace>SpriteFontPlus</RootNamespace>
+    <Version>0.8.5.43</Version>
+    <StbTrueTypeSharpVersion>1.24.7</StbTrueTypeSharpVersion>
+    <StbImageSharpVersion>2.22.4</StbImageSharpVersion>
+    <CyotekDrawingBitmapFontVersion>2.0.1</CyotekDrawingBitmapFontVersion>
+    <RepositoryUrl>https://github.com/mini2Dx/SpriteFontPlus</RepositoryUrl>
+  </PropertyGroup>
+</Project>

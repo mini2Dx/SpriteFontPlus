@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpriteFontPlus.Samples.BMFo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpriteFontPlus.Samples.TtfBaking.MonoGame", "..\samples\SpriteFontPlus.Samples.TtfBaking\SpriteFontPlus.Samples.TtfBaking.MonoGame.csproj", "{A7DE35F8-45B6-46E6-82B4-DAC0CE6F5AC8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StbTrueTypeSharp", "..\..\StbTrueTypeSharp\src\StbTrueTypeSharp.csproj", "{00C79C51-4068-471A-86A6-A4E6965EAF13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{A7DE35F8-45B6-46E6-82B4-DAC0CE6F5AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7DE35F8-45B6-46E6-82B4-DAC0CE6F5AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7DE35F8-45B6-46E6-82B4-DAC0CE6F5AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C79C51-4068-471A-86A6-A4E6965EAF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C79C51-4068-471A-86A6-A4E6965EAF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C79C51-4068-471A-86A6-A4E6965EAF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C79C51-4068-471A-86A6-A4E6965EAF13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
